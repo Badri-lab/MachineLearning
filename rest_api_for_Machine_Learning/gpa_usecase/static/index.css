@@ -1,0 +1,17 @@
+body {
+    align-items: center;
+    height: 50vh;
+    background: rgb(255, 80, 80);
+  }
+  
+  .formContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  input {
+    margin-bottom: 5vh;
+    background-color: rgb(245, 244, 244);
+  }
